@@ -2,7 +2,7 @@
 
 ## Associated Project
 
-The frontend of this project [GoldenCar-frontend](https://github.com/Tengilimm/Redi-Frontend)
+The frontend of this project [Redi-Frontend](https://github.com/Tengilimm/Redi-Frontend)
 
 # <p align="center">RentMax</p>
 
