@@ -26,20 +26,12 @@ Redi Rent Max is a car rental solution. This project includes an enterprise-grad
    git clone https://github.com/Tengilimm/Redi-Backend.git
    ```
 2. Open the `ReCapProject.sln` file with `Visual Studio`
-3. Open the `ReCapProjectContext.cs` file in the `DataAccess.Concrete.EntityFramework` folder and enter your own database connection string
-4. Open `Package Manager Console` and run the following commands:
 
-   ```sh
-   cd DataAccess
-   dotnet ef database update
-   ```
-   `NOTE:` Requires `dotnet ef` installation. Command for installation:
-   ```sh
-   dotnet tool install --global dotnet-ef
-   ```
-   
-5. Right click on the `WebAPI` project (layer) from the `Solution Explorer` and select `Set as Startup Project` 
-6. Start the project with `IIS Express` in Visual Studio. Web API is ready and running!
+3. Open the `ReCapProjectContext.cs` file in the `DataAccess.Concrete.EntityFramework` folder and enter your own database connection string 
+
+4. Right click on the `WebAPI` project (layer) from the `Solution Explorer` and select `Set as Startup Project` 
+
+5. Start the project with `IIS Express` in Visual Studio. Web API is ready and running!
 
 ### Usage
  
